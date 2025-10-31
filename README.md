@@ -1,6 +1,6 @@
 # 🧑‍💻 Igor Matos
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FrontEnd`**
 
 Me chamo Igor Rocha Matos, tenho 20 anos e sou de Bicas-MG. Atualmente, estou cursando Ciência da Computação na UFJF.
 
